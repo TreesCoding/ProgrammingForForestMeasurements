@@ -1,0 +1,47 @@
+body {
+    padding-top: 10px; /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
+	background: radial-gradient(yellow, lightgreen);
+	background: url(../images/1bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+	text-align: center;
+    background-color: lightskyblue;
+}
+
+.footer-blurb h3 {
+    color: midnightblue;
+    }
+    
+.footer-blurb-item {
+    padding: 30px 0;
+    }
+ 
+.copyright {
+	background-color: #fff;
+	text-align: center;
+	padding: 30px 0;
+}
+a,p{
+	color:yellow;
+	 text-shadow: 10px 10px 60px white;
+	 font-weight:bold;
+p{
+	font-size: 22px;
+}
+a{
+	font-size: 60px;
+}
+
+h3, h3 {
+    font-size: 40px;
+}
